@@ -4,6 +4,10 @@ A gamified web platform designed to promote sustainable farming practices and en
 
 ---
 
+## Preview
+![Preview](screenshots/home.png)
+
+
 ## 🚀 Features
 - Farmer registration system
 - Interactive UI components
