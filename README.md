@@ -1,41 +1,42 @@
+# Krishi Sahyog 🌱
 
-# React + Vite
+A gamified web platform designed to promote sustainable farming practices and encourage farmers through interactive features.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+## 🚀 Features
+- Farmer registration system
+- Interactive UI components
+- Modular React component architecture
+- Clean responsive design
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🛠 Tech Stack
+- React
+- Vite
+- JavaScript
+- CSS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
 
-# Agriculture-25075
-Gamified Platform to Promote Sustainable Farming Practices
-Description	
-Problem
+## 📦 Installation
 
-Despite numerous awareness campaigns, many farmers still rely on unsustainable practices—excessive chemical use, over-irrigation, or mono-cropping—due to habit, lack of training, or limited engagement. Traditional training methods often fail to inspire lasting behavioural change, especially among younger farmers.
+Clone repo:
+git clone https://github.com/JAY-prakashyadav/krishi_sahyog.git
 
-Challenge
+Install dependencies:
+npm install
 
-Design a gamified digital platform that educates and motivates farmers to adopt sustainable agricultural practices through interactive challenges, rewards, and community participation.
+Run project:
+npm run dev
 
-Core Features
+---
 
-- Learning Through Play: Convert best practices—such as organic input use, mixed cropping, soil health management—into engaging missions or tasks.
-- Personalized Quests: Tailor challenges based on the farmer’s crop, location, and farm size—e.g., “Complete 3 weeks of mulching on banana fields” or “Switch to bio-pesticides this season.”
-- Progress Tracker: Visual dashboards showing farmer progress, sustainability score, and learning badges.
-- Peer Sharing & Leaderboards: Allow farmers to share progress and earn recognition locally or panchayat-wise.
-- Incentive System: Link rewards to real-world benefits like scheme eligibility points, training credits, or public recognition.
+## 📌 Purpose
+This project demonstrates frontend engineering skills, component structuring, and UI design using modern React practices.
 
-Expected Impact
+---
 
-- Encourages adoption of eco-friendly practices in a fun, engaging way.
-- Builds a digitally connected community of progressive farmers.
-- Makes sustainable farming accessible, especially for youth and early adopters.
-
-This platform transforms agricultural extension from top-down instruction to a bottom-up, gamified experience—making sustainable farming a goal, a game, and a movement.
-
+## 📄 License
+MIT License
